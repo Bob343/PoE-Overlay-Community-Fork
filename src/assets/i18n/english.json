@@ -27,6 +27,7 @@
   "evaluate": {
     "age": "Age",
     "analyzing": "Analyzing data...",
+    "auto-hide-search": "Hide Search When Mouse Leaves?",
     "cancel": "Cancel?",
     "canceled": "Search canceled. Open in browser?",
     "count": "Results",
